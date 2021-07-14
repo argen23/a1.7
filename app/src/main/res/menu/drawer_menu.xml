@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/box"
+        android:icon="@drawable/ic_all_inbox"
+        android:title="@string/all_inboxes" />
+
+    <item
+        android:id="@+id/inbox"
+        android:icon="@drawable/ic_inbox"
+        android:title="@string/inbox" />
+
+    <item
+        android:id="@+id/shoozed"
+        android:icon="@drawable/ic_shoozed"
+        android:title="@string/shoozed" />
+
+    <item
+        android:id="@+id/done"
+        android:icon="@drawable/ic_done"
+        android:title="@string/done" />
+
+    <item
+        android:id="@+id/drafts"
+        android:icon="@drawable/ic_baseline_drafts_24"
+        android:title="@string/drafts" />
+
+    <item
+        android:id="@+id/sent"
+        android:icon="@drawable/ic_send"
+        android:title="@string/send" />
+
+    <item
+        android:id="@+id/reminders"
+        android:icon="@drawable/ic_reminders"
+        android:title="@string/reminders" />
+
+    <item
+        android:id="@+id/settings"
+        android:icon="@drawable/ic_settings"
+        android:title="@string/settings" />
+
+    <item
+        android:id="@+id/h_f"
+        android:icon="@drawable/ic_baseline_help_24"
+        android:title="@string/help_amp_feedback" />
+
+</menu>
